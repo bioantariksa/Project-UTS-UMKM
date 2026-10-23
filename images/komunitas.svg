@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300"><defs></defs>
+<rect width="400" height="300" fill="#fde4ef"/>
+<circle cx="340" cy="50" r="70" fill="#f8bbd0" opacity="0.7"/>
+<circle cx="50" cy="270" r="80" fill="#f8bbd0" opacity="0.7"/>
+<ellipse cx="60" cy="36" rx="7.700000000000001" ry="11.200000000000001" fill="#f48fb1" transform="rotate(0 60 50)"/><ellipse cx="60" cy="36" rx="7.700000000000001" ry="11.200000000000001" fill="#f48fb1" transform="rotate(72 60 50)"/><ellipse cx="60" cy="36" rx="7.700000000000001" ry="11.200000000000001" fill="#f48fb1" transform="rotate(144 60 50)"/><ellipse cx="60" cy="36" rx="7.700000000000001" ry="11.200000000000001" fill="#f48fb1" transform="rotate(216 60 50)"/><ellipse cx="60" cy="36" rx="7.700000000000001" ry="11.200000000000001" fill="#f48fb1" transform="rotate(288 60 50)"/><circle cx="60" cy="50" r="6.3" fill="#f4c430"/>
+<ellipse cx="350" cy="238" rx="6.6000000000000005" ry="9.600000000000001" fill="#f48fb1" transform="rotate(0 350 250)"/><ellipse cx="350" cy="238" rx="6.6000000000000005" ry="9.600000000000001" fill="#f48fb1" transform="rotate(72 350 250)"/><ellipse cx="350" cy="238" rx="6.6000000000000005" ry="9.600000000000001" fill="#f48fb1" transform="rotate(144 350 250)"/><ellipse cx="350" cy="238" rx="6.6000000000000005" ry="9.600000000000001" fill="#f48fb1" transform="rotate(216 350 250)"/><ellipse cx="350" cy="238" rx="6.6000000000000005" ry="9.600000000000001" fill="#f48fb1" transform="rotate(288 350 250)"/><circle cx="350" cy="250" r="5.4" fill="#f4c430"/>
+<g transform="translate(95,290) scale(0.95)">
+<path d="M-37 -118 Q-42 -154 0 -158 Q42 -154 37 -118 Q44 -90 42 -62 L-42 -62 Q-44 -90 -37 -118 Z" fill="#f8bbd0"/>
+<path d="M-52 0 L-52 -62 Q-52 -94 -22 -98 L22 -98 Q52 -94 52 -62 L52 0 Z" fill="#c2185b"/>
+<rect x="-8" y="-104" width="16" height="14" fill="#f6d0b1"/>
+<path d="M-16 -98 L0 -76 L16 -98 Z" fill="#ffffff"/>
+<ellipse cx="0" cy="-120" rx="21" ry="25" fill="#f6d0b1"/>
+<circle cx="-8" cy="-121" r="2.3" fill="#3b2a2a"/><circle cx="8" cy="-121" r="2.3" fill="#3b2a2a"/>
+<path d="M-7 -109 Q0 -103 7 -109" fill="none" stroke="#a23b4a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="-14" cy="-112" r="4" fill="#ff8aa8" opacity="0.5"/><circle cx="14" cy="-112" r="4" fill="#ff8aa8" opacity="0.5"/>
+<circle cx="-28" cy="-62" r="5" fill="#f4c430"/>
+
+</g>
+<g transform="translate(305,290) scale(0.95)">
+<path d="M-37 -118 Q-42 -154 0 -158 Q42 -154 37 -118 Q44 -90 42 -62 L-42 -62 Q-44 -90 -37 -118 Z" fill="#ffffff"/>
+<path d="M-52 0 L-52 -62 Q-52 -94 -22 -98 L22 -98 Q52 -94 52 -62 L52 0 Z" fill="#880e4f"/>
+<rect x="-8" y="-104" width="16" height="14" fill="#d9a07a"/>
+<path d="M-16 -98 L0 -76 L16 -98 Z" fill="#f8bbd0"/>
+<ellipse cx="0" cy="-120" rx="21" ry="25" fill="#d9a07a"/>
+<circle cx="-8" cy="-121" r="2.3" fill="#3b2a2a"/><circle cx="8" cy="-121" r="2.3" fill="#3b2a2a"/>
+<path d="M-7 -109 Q0 -103 7 -109" fill="none" stroke="#a23b4a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="-14" cy="-112" r="4" fill="#ff8aa8" opacity="0.5"/><circle cx="14" cy="-112" r="4" fill="#ff8aa8" opacity="0.5"/>
+<circle cx="-28" cy="-62" r="5" fill="#f4c430"/>
+
+</g>
+<g transform="translate(200,300) scale(1.12)">
+<circle cx="0" cy="-158" r="12" fill="#3b2a2a"/>
+<ellipse cx="0" cy="-126" rx="28" ry="30" fill="#3b2a2a"/>
+<path d="M-52 0 L-52 -62 Q-52 -94 -22 -98 L22 -98 Q52 -94 52 -62 L52 0 Z" fill="#ec407a"/>
+<rect x="-8" y="-104" width="16" height="14" fill="#e8b48c"/>
+<path d="M-16 -98 L0 -76 L16 -98 Z" fill="#ffffff"/>
+<ellipse cx="0" cy="-120" rx="21" ry="25" fill="#e8b48c"/>
+<path d="M-22 -122 Q-22 -148 0 -148 Q22 -148 22 -122 Q10 -138 -22 -122 Z" fill="#3b2a2a"/>
+<circle cx="-8" cy="-121" r="2.3" fill="#3b2a2a"/><circle cx="8" cy="-121" r="2.3" fill="#3b2a2a"/>
+<path d="M-7 -109 Q0 -103 7 -109" fill="none" stroke="#a23b4a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="-14" cy="-112" r="4" fill="#ff8aa8" opacity="0.5"/><circle cx="14" cy="-112" r="4" fill="#ff8aa8" opacity="0.5"/>
+<circle cx="-28" cy="-62" r="5" fill="#f4c430"/>
+
+</g>
+<text x="200" y="22" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#880e4f">Ibu-ibu Bhayangkari, saling menguatkan</text>
+</svg>
